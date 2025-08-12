@@ -5,7 +5,7 @@ Performing data transformations, designing dynamic visualizations, and preparing
 This is the repository for [Tableau for Job Seekers
 ](https://bpbonline.com/products/tableau-for-job-seekers?_pos=1&_sid=90bd0aa5c&_ss=r?variant=44523162927304),published by BPB Publications.
 
-<img src="9789365897241.jpg">
+<img src="9789365897982.jpg">
 
 ## About the Book
 Tableau is the leading data visualization tool, empowering users to transform raw data into actionable insights. This book bridges the gap between learning Tableau and securing a data-driven career, focusing on practical skills and market relevance for aspiring data analysts. Tableau helps organizations make sense of complex data, professionals with strong Tableau skills unlock exciting career opportunities.
